@@ -1,9 +1,25 @@
 body {
   margin: auto;
   font-family: Helvetica;
+  text-align: center;
 }
 ul {
   list-style-type: none;
   margin: 0;
   pading: 0;
+}
+h1 {
+  background-image: url("Resources/images/backgroundimage.png");
+}
+.bold {
+  font-weight: bold;
+}
+.white {
+  color: white;
+}
+#home {
+  font-size: 70px;
+}
+h4 {
+  background-image: url("Resources/images/backgroundimage.png");
 }
