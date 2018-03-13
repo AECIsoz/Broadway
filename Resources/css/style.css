@@ -4,6 +4,7 @@ body {
   text-align: center;
 }
 ul {
+  font-size: 18px;
   list-style-type: none;
   margin: 0;
   pading: 0;
