@@ -8,18 +8,28 @@ ul {
   margin: 0;
   pading: 0;
 }
-h1 {
-  background-image: url("Resources/images/backgroundimage.png");
-}
 .bold {
   font-weight: bold;
 }
 .white {
   color: white;
 }
-#home {
+h1 {
   font-size: 70px;
 }
-h4 {
-  background-image: url("Resources/images/backgroundimage.png");
+.image {
+  background-image: url("../images/the-flatiron-building.png");
+  background-size: cover;
+  background-position: center;
+}
+a {
+  color: white;
+}
+h3 {
+  font-size: 23;
+}
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
